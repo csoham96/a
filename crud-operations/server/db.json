@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Soham Chakraborty",
+      "mobile": "07063282441",
+      "email": "csoham96@gmail.com",
+      "password": "8623723823",
+      "id": 1
+    },
+    {
+      "name": "Soham Chakraborty",
+      "mobile": "989895662",
+      "email": "csoham96@gmail.in",
+      "password": "8623723823",
+      "id": 6
+    }
+  ]
+}
